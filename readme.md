@@ -51,7 +51,7 @@ This website was built using:
 
 ## 🔗 Connect With Me
 
-- 📷 [Instagram](https://www.instagram.com/) *(Add your handle)*
+- 📷 [Instagram](https://www.instagram.com/mehul_tandon/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mehul-tandon)
 - 💻 [GitHub](https://github.com/CobAlt-Gamer)
 - 🌐 [Portfolio Website](https://www.portfolio-mehultandon.in)
