@@ -3,6 +3,9 @@
 Welcome to the official repository of my personal portfolio website!  
 Visit it live here: [www.portfolio-mehultandon.in](https://www.portfolio-mehultandon.in)
 
+---
+
+<img width="1435" alt="Screenshot 2025-05-26 at 2 25 07 PM" src="https://github.com/user-attachments/assets/7d1f9386-1a73-4c45-8a4c-633a3102a5bb" />
 
 ---
 
