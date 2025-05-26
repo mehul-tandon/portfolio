@@ -27,7 +27,6 @@ This website was built using:
 
 - **HTML5 / CSS3**
 - **JavaScript**
-- **Bootstrap / Tailwind CSS** *(if used)*
 - **GitHub Pages** for hosting
 
 ---
